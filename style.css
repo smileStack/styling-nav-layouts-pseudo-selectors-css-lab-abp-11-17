@@ -40,9 +40,8 @@ nav a:hover {
   text-decoration: none;
   color: #868e96;
 }
-
-#head{
-  
+#header a:hover{
+  text-decoration: underline;
 }
 
 main{
